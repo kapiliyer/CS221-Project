@@ -1,4 +1,4 @@
-# CS221-Project
+# Static Board Evaluation in Chess
 
 We perform static evaluation for chess positions using neural methods.
 We implement a powerful MLP model and a CNN model.
